@@ -1,0 +1,31 @@
+PARKID,TEAM,NAME,CITY,STATE,START,END,LEAGUE,NOTES,AKA,Exact,Latitude,Longitude,Altitude
+ANA01,LAA,Angel Stadium of Anaheim,Anaheim,CA,19660419,,AL,,Anaheim Stadium; Edison Field,Y,33.80029,-117.882685,154
+ARL02,TEX,Globe Life Park,Arlington,TX,19940411,,AL,,Rangers Ballpark in Arlington; The Ballpark in Arlington; Ameriquest Field,Y,32.751164,-97.082546,549
+ATL02,ATL,Turner Field,Atlanta,GA,19970404,,NL,,,Y,33.735487,-84.389464,939
+BAL12,BAL,Oriole Park at Camden Yards,Baltimore,MD,19920406,,AL,,Camden Yards,Y,39.283944,-76.621572,35
+BOS07,BOS,Fenway Park,Boston,MA,19120420,,AL,BOS:1912-date; BSN:9/7 to 9/29/1914; 4/14 to 7/26/15,,Y,42.346561,-71.097337,16
+CHI11,CHC,Wrigley Field,Chicago,IL,19140423,,NL,CHF:1914-15; CHN:1916-date,Weeghman Park; Cubs Park; Whales Park; North Side Ball Park,Y,41.948314,-87.655397,599
+CHI12,CHW,U.S. Cellular Field,Chicago,IL,19910418,,AL,,Comiskey Park,Y,41.829892,-87.633703,594
+CIN09,CIN,Great American Ballpark,Cincinnati,OH,20030331,,NL,,,Y,39.097213,-84.506483,489
+CLE08,CLE,Progressive Field,Cleveland,OH,19940404,,AL,,Jacobs Field; The Jake,Y,41.496005,-81.685326,673
+DEN02,COL,Coors Field,Denver,CO,19950426,,NL,,,Y,39.756175,-104.99413,5197
+DET05,DET,Comerica Park,Detroit,MI,20000411,,AL,,,Y,42.339063,-83.048627,602
+HOU03,HOU,Minute Maid Park,Houston,TX,20000407,,NL,,Enron Field; Astros Field,Y,29.757041,-95.355429,20
+KAN06,KCR,Kauffman Stadium,Kansas City,MO,19730410,,AL,,Royals Stadium,Y,39.051604,-94.480149,886
+LOS03,LAD,Dodger Stadium,Los Angeles,CA,19620410,,NL,LAN:1962-prsnt; LAA:1962-9/2/65; CAL:9/2to9/22/65,Chavez Ravine,Y,34.073878,-118.239951,501
+MIA02,MIA,Marlins Park,Miami,FL,20120404,,NL,,,Y,25.778165,-80.219541,6
+MIL06,MIL,Miller Park,Milwaukee,WI,20010406,,NL,,,Y,43.028232,-87.970966,602
+MIN04,MIN,Target Field,Minneapolis,MN,20100412,,AL,,,Y,44.981749,-93.278026,840
+NYC20,NYM,Citi Field,New York,NY,20090413,,NL,,,Y,40.757134,-73.84584,13
+NYC21,NYY,Yankee Stadium II,New York,NY,20090416,,AL,,,Y,40.829586,-73.926413,11
+OAK01,OAK,Oakland-Alameda County Coliseum,Oakland,CA,19680417,,AL,,Network Associates Coliseum; McAfee Coliseum; UMAX Coliseum; Overstock.com Coliseum,Y,37.751619,-122.200451,0
+PHI13,PHI,Citizens Bank Park,Philadelphia,PA,20040412,,NL,,,Y,39.906109,-75.166485,19
+PHO01,ARI,Chase Field,Phoenix,AZ,19980331,,NL,,Bank One Ballpark,Y,33.44542,-112.066793,1059
+PIT08,PIT,PNC Park,Pittsburgh,PA,20010409,,NL,,,Y,40.446835,-80.005683,724
+SAN02,SDP,Petco Park,San Diego,CA,20040408,,NL,,,Y,32.70753,-117.157056,14
+SEA03,SEA,Safeco Field,Seattle,WA,19990715,,AL,,,Y,47.591443,-122.332283,17
+SFO03,SFG,AT&T Park,San Francisco,CA,20000411,,NL,,Pac Bell Park; SBC Park,Y,37.778324,-122.389221,8
+STL10,STL,Busch Stadium III,St. Louis,MO,20060410,,NL,,,Y,38.622622,-90.192841,438
+STP01,TBR,Tropicana Field,St. Petersburg,FL,19980331,,AL,,,Y,27.768254,-82.653431,41
+TOR02,TOR,Rogers Centre,Toronto,ONT,19890605,,AL,,Skydome,Y,43.641256,-79.389054,268
+WAS11,WSN,Nationals Park,Washington,DC,20080330,,NL,,,Y,38.872987,-77.007435,23
