@@ -264,8 +264,9 @@ buildfinalpredstable <- function(trainyear1, trainyear2, currentyear, subset)
     dataforpred <- currentdata[which(currentdata$Tm %in% subset),]
     #return(dataforpred)
     predictions <- predictstuff(model, dataforpred)
-    finaltable <- data.frame(Team = dataforpred$Tm, PredictedWins = round(predictions*162), PredictedLoss = 162-round(predictions*162), currentwins = dataforpred$W, currentloss = dataforpred$L)
-    colnames(finaltable) <- c("Team", "Predicted Wins", "Predicted Losses", "Current Wins", "Current Losses")
+    finaltable <- data.frame(Team = dataforpred$Tm, PredictedWins = round(predictions*162), PredictedLoss = 162-round(predictions*162), PredictedWinLoss = round(predictions, digits = 3), currentwins = dataforpred$W, currentloss = dataforpred$L, currentWinLoss = round(dataforpred$W/(dataforpred$W + dataforpred$L), digits = 3))
+    finaltable$diff <- finaltable$currentWinLoss - finaltable$PredictedWinLoss
+    colnames(finaltable) <- c("Team", "Predicted Wins", "Predicted Losses", "Predicted Win Percentage", "Current Wins", "Current Losses", "Current Win Percentage", "Actual - Predicted Win Percentage")
 
     return(finaltable)
 }
